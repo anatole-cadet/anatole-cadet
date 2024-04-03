@@ -12,5 +12,5 @@ Oracle PL / SQL, python scipting automation in SPSS Modeler for complex task,and
 deploy cloud infrastructure with Terraform or AWS CDK
 
 
-
+<img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/aws.png" width="50" height="40"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/awscdk.png" width="100" height="40">   <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/apacheairflow.png" width="80" height="40">   <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/python.png" width="95" height="50"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/git.png" width="85" height="40"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/postgresql.png" width="80" height="60"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/sql.png" width="50" height="50"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/terraform.png" width="80" height="60"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/typescript.png" width="95" height="60"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/qgis.jpeg" width="95" height="60"> <img src="https://github.com/anatole-cadet/anatole-cadet/blob/main/spssmodeler.jpeg" width="80" height="60">
 
